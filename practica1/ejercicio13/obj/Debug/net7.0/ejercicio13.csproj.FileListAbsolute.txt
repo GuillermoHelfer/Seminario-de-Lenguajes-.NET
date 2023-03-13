@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\bin\Debug\net7.0\ejercicio13.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\bin\Debug\net7.0\ejercicio13.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\bin\Debug\net7.0\ejercicio13.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\bin\Debug\net7.0\ejercicio13.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\bin\Debug\net7.0\ejercicio13.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\refint\ejercicio13.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ejercicio13.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio13\obj\Debug\net7.0\ref\ejercicio13.dll

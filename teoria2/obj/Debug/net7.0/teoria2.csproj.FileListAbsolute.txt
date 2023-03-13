@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\bin\Debug\net7.0\teoria2.exe
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\bin\Debug\net7.0\teoria2.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\bin\Debug\net7.0\teoria2.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\bin\Debug\net7.0\teoria2.dll
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\bin\Debug\net7.0\teoria2.pdb
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.dll
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\refint\teoria2.dll
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.pdb
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\teoria2.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria2\obj\Debug\net7.0\ref\teoria2.dll

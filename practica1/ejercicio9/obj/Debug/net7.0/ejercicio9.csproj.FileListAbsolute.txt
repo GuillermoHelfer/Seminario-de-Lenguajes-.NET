@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\bin\Debug\net7.0\ejercicio9.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\bin\Debug\net7.0\ejercicio9.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\bin\Debug\net7.0\ejercicio9.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\bin\Debug\net7.0\ejercicio9.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\bin\Debug\net7.0\ejercicio9.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\refint\ejercicio9.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ejercicio9.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio9\obj\Debug\net7.0\ref\ejercicio9.dll

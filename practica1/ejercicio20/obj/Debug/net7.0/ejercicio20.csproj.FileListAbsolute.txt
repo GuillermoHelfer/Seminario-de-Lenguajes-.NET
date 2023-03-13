@@ -1,0 +1,5 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio20\obj\Debug\net7.0\ejercicio20.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio20\obj\Debug\net7.0\ejercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio20\obj\Debug\net7.0\ejercicio20.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio20\obj\Debug\net7.0\ejercicio20.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio20\obj\Debug\net7.0\ejercicio20.csproj.CoreCompileInputs.cache

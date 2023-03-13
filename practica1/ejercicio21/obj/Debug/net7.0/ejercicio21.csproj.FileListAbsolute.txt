@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\bin\Debug\net7.0\ejercicio21.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\bin\Debug\net7.0\ejercicio21.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\bin\Debug\net7.0\ejercicio21.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\bin\Debug\net7.0\ejercicio21.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\bin\Debug\net7.0\ejercicio21.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\refint\ejercicio21.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ejercicio21.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica1\ejercicio21\obj\Debug\net7.0\ref\ejercicio21.dll
