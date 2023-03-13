@@ -32,3 +32,10 @@ Console.WriteLine(x++ == 10);
 Console.WriteLine(x-- == 10);
 Console.WriteLine(++x == 10);
 Console.WriteLine(--x == 10);
+//
+double d = 15.1;
+float f = 21.2f; //21.2
+//
+Console.WriteLine("Hola!, ingresa tu nombre por teclado");
+String nombre = Console.ReadLine();
+Console.WriteLine("Bienvenido ", nombre, " a .NET");
