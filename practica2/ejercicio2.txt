@@ -1,0 +1,7 @@
+en la linea 3
+lo que pasa es que se toma una nueva parte de memoria
+se guarda el valor z
+y o2 ahora apunta a este nuevo
+y o1 sigue apuntando a la posicion de memoria que ya apuntaba
+es para que no sea destructivo
+creo que era una particularidad del lenguaje

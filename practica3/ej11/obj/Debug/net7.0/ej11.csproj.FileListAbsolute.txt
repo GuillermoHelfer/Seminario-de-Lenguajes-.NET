@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\bin\Debug\net7.0\ej11.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\bin\Debug\net7.0\ej11.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\bin\Debug\net7.0\ej11.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\bin\Debug\net7.0\ej11.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\bin\Debug\net7.0\ej11.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\refint\ej11.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ej11.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej11\obj\Debug\net7.0\ref\ej11.dll

@@ -1,0 +1,14 @@
+DateTime es una estructura definida en la BCL, simula el tiempo y fecha.
+var dat1 = new DateTime();
+
+DateTime date1 = DateTime.Now;
+DateTime date2 = DateTime.UtcNow;
+DateTime date3 = DateTime.Today;
+
+var dateString = "5/1/2008 8:30:52 AM";
+
+DateTime date1 = DateTime.Parse(dateString, 						System.Globalization.CultureInfo.InvariantCulture);
+
+var date1 = new DateTime(2008, 3, 1, 7, 0, 0);
+Console.WriteLine(date1.ToString());
+// For en-US culture, displays 3/1/2008 7:00:00 AM

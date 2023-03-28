@@ -1,0 +1,15 @@
+Verificar con un par de ejemplos si la sección opcional [:formatString] de formatos compuestos
+redondea o trunca cuando se formatean números reales restringiendo la cantidad de decimales.
+Plantear los ejemplos con cadenas de formato compuesto y con cadenas interpoladas.
+
+Creo que siempre redondean. Ahora busco ejemplos.
+
+//How can I use string.Format() to truncate instead of round?
+
+/I would like to apply string.Format() in such a way that it performs 
+/truncation instead of rounding. For example:
+/string.Format("##", 46.5); // output is 47, but I want 46
+/string.Format("##.#", 46.55); // output is 46.6, but I want 46.5
+
+//La solucion a esto seria:
+/Use Math.Truncate to truncate before formatting for output

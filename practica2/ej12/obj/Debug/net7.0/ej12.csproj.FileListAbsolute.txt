@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\bin\Debug\net7.0\ej12.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\bin\Debug\net7.0\ej12.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\bin\Debug\net7.0\ej12.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\bin\Debug\net7.0\ej12.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\bin\Debug\net7.0\ej12.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\refint\ej12.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ej12.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica2\ej12\obj\Debug\net7.0\ref\ej12.dll

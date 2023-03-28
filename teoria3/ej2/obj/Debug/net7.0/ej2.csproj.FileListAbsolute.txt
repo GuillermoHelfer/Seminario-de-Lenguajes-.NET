@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\bin\Debug\net7.0\ej2.exe
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\bin\Debug\net7.0\ej2.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\bin\Debug\net7.0\ej2.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\bin\Debug\net7.0\ej2.dll
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\bin\Debug\net7.0\ej2.pdb
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.dll
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\refint\ej2.dll
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.pdb
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ej2.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\teoria3\ej2\obj\Debug\net7.0\ref\ej2.dll
