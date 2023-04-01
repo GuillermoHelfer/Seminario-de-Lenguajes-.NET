@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\bin\Debug\net7.0\ej16.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\bin\Debug\net7.0\ej16.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\bin\Debug\net7.0\ej16.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\bin\Debug\net7.0\ej16.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\bin\Debug\net7.0\ej16.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\refint\ej16.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ej16.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej16\obj\Debug\net7.0\ref\ej16.dll

@@ -1,0 +1,15 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\bin\Debug\net7.0\ej14.exe
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\bin\Debug\net7.0\ej14.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\bin\Debug\net7.0\ej14.runtimeconfig.json
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\bin\Debug\net7.0\ej14.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\bin\Debug\net7.0\ej14.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\refint\ej14.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ej14.genruntimeconfig.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica3\ej14\obj\Debug\net7.0\ref\ej14.dll
