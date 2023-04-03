@@ -1,0 +1,12 @@
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\bin\Debug\net7.0\Figuras.deps.json
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\bin\Debug\net7.0\Figuras.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\bin\Debug\net7.0\Figuras.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.AssemblyInfo.cs
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\refint\Figuras.dll
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\Figuras.pdb
+C:\Users\guill\Desktop\proyectosDotnet\practica4\ej14\Figuras\obj\Debug\net7.0\ref\Figuras.dll
